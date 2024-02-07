@@ -1,0 +1,14 @@
+# Byte-compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Compiled C extensions
+*.so
+
+# Distribution/build folders
+/dist/
+/build/
+
+*.egg-info/
+*.egg/
