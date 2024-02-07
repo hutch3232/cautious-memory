@@ -8,5 +8,5 @@ def main():
     sub()
 
 def sub():
-    subprocess.run(["bash", shelly], shell=True)
+    subprocess.run(["bash", shelly])
     print(shelly)
